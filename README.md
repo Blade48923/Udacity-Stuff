@@ -1,2 +1,1 @@
-# Udacity-Stuff
-Udacity learning Projects and other things
+typing away into the moonlight sounds like a coding hell 
